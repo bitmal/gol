@@ -1,0 +1,5 @@
+# bin and symbols
+**/*.obj
+**/*.pdb
+**/*.exe
+**/*.ilk
